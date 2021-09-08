@@ -1,2 +1,0 @@
-/***/
-(= d 300) /*dista//nza*//*da Torino a Lione*/a/***/
