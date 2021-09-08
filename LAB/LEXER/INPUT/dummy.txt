@@ -1,0 +1,1 @@
+(= d 300) /*distanza*//*da Torino a Lione*/
